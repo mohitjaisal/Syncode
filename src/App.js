@@ -26,6 +26,7 @@ function App() {
                         path="/editor/:roomId"
                         element={<EditorPage />}
                     ></Route>
+                    <Route path="/*" element={<Home />}></Route>
                 </Routes>
             </BrowserRouter>
         </>

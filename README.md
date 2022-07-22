@@ -1,3 +1,3 @@
-### Demo
+### SynCode
 
-https://code-sync.codersgyan.com/
+Sync Your Code with your friend or team.
