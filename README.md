@@ -67,7 +67,7 @@ npm install
 
 <br/>
 
--  To run the project in Development mode locally, go to the `scripts` inside `package.json` & set the "start" script as:
+-  To run the project in Development mode, go to the `scripts` inside `package.json` & set the "start" script as:
 
 ```bash
 "start": "npm run build && npm run server:dev"
